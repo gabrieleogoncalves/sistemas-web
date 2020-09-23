@@ -1,0 +1,78 @@
+body{
+	font-family: Times New Roman, sans-serif;
+	background: #d3d3d3;
+}
+#wrap{
+	width:100%;
+	margin: auto;
+	padding: 10px 20px;
+}
+header nav ul{
+	list-style: none;
+}
+header nav ul li{
+	display: inline-block;
+	margin-right: -80px;
+	padding-left: 120px;
+
+}
+header nav ul li a{
+	font-size: 18px;
+	color: #4c4c4c;
+	text-decoration: none;
+}
+header nav ul li a:hover{
+	text-decoration: underline;
+}
+#content{
+	float: left;
+	padding-left: 150px;
+	padding-top: 100px;
+}
+aside{
+	float: right;
+}
+aside img{
+	width: 500px;
+	padding-bottom: -10px;
+}
+div section div a{
+	color: white;
+	width: 50px;
+	background-color: green;
+	padding: 10px;
+	border-radius: 5px;
+}
+footer{
+	clear: both;
+}
+#about{
+	width: 400px;
+	float: left;
+	text-align: justify;
+	padding-top: 40px;
+}
+#img-about{
+	width: 1px;
+	float: left;
+	padding-right: 400px;
+
+}
+#aside-aboutme{
+	width: 400px;
+	float: right;
+	text-align: justify;
+	padding-top: 80px;
+}
+#w-image{
+	width: 200px;
+	background-color: black;
+}
+#contact{
+	color: white;
+	width: 50px;
+	background-color: green;
+	padding: 10px;
+	border-radius: 5px;
+}
+
