@@ -1,0 +1,49 @@
+<!doctype html>
+
+<html>
+	<head>
+		<title>About Me</title>
+		<meta charset="utf-8"/>
+		<link rel="stylesheet" type="text/css" href="estilo.css" />
+	</head>
+
+	<body>
+		<div id="wrap">
+			<header>
+				<nav>
+					<ul>
+						<li><a href="#">Home</a></li>
+						<li><a href="#">Services</a></li>
+						<li><a href="#">About</a></li>
+						<li><a href="#">Me.</a></li>
+						<li><a href="#">Portfolio</a></li>
+						<li><a href="#">Client</a></li>
+						<li><a href="#">Contact</a></li>
+					</ul>
+				</nav>
+			</header>
+
+			<div id="about">
+				<section>
+					<h2>About Me</h2>
+					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. <br><br> It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+				</section>
+			</div>
+
+			<div id="img-about">
+				<img id="w-image" src="img/homem-sorrindo.png" alt="homem-sorrindo" />
+			</div>
+
+			<div id="aside-aboutme">
+				<aside>
+					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. <br><br> It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+					<a id="contact" href="formulario.html" target="_self">Contact Me</a>
+				</aside>
+			</div>
+
+			<footer>
+			</footer>
+		</div>
+	</body>
+
+</html>
