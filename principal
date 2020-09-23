@@ -1,0 +1,47 @@
+<!doctype html>
+
+<html>
+	<head>
+		<title>Principal</title>
+		<meta charset="utf-8"/>
+		<link rel="stylesheet" type="text/css" href="estilo.css" />
+	</head>
+
+	<body>
+		<div id="wrap">
+			<header>
+				<nav>
+					<ul>
+						<li><a href="#">Home</a></li>
+						<li><a href="#">Services</a></li>
+						<li><a href="#">About</a></li>
+						<li><a href="aboutme.html" target="_self">Me.</a></li>
+						<li><a href="#">Portfolio</a></li>
+						<li><a href="#">Client</a></li>
+						<li><a href="formulario.html" target="_self">Contact</a></li>
+					</ul>
+				</nav>
+			</header>
+
+			<div id="content">
+				<section>
+					<h2>I'm Ben Carson</h2>
+					<p>I'm Web Developer Based on NY City</p>
+					<div>
+						<a href="#">Portfolio</a>
+					</div>
+				</section>
+			</div>
+
+			<div id="img-page1">
+				<aside>
+					<img src="img/homem-sorrindo.png" alt="homem-sorrindo" />
+				</aside>
+			</div>
+
+			<footer>
+			</footer>
+		</div>
+	</body>
+
+</html>
