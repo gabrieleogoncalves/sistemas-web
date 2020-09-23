@@ -1,0 +1,47 @@
+<!doctype html>
+
+<html>
+	<head>
+		<title>Formulário</title>
+		<meta charset="utf-8"/>
+		<link rel="stylesheet" type="text/css" href="estilo.css" />
+	</head>
+
+	<body>
+		<div id="wrap">
+			<header>
+				<nav>
+					<ul>
+						<li><a href="#">Home</a></li>
+						<li><a href="#">Services</a></li>
+						<li><a href="#">About</a></li>
+						<li><a href="#">Me.</a></li>
+						<li><a href="#">Portfolio</a></li>
+						<li><a href="#">Client</a></li>
+						<li><a href="#">Contact</a></li>
+					</ul>
+				</nav>
+			</header>
+			<form name="formteste">
+				<h1>Contact Form</h1>
+				<p class="nome">
+		 			<input type="text" name="nome" placeholder="informe seu nome" required="required">
+		 		</p>
+
+				<p class="email">
+		 			<input type="email" name="email" placeholder="informe seu email" required="required">
+				</p>
+
+				<p class="assunto">
+		 			<input type="text" name="assunto" placeholder="informe o assunto" required="required">
+		 		</p>
+
+				<p class="mensagem">
+		 			<textarea name="mensagem" placeholder="deixe sua mensagem"></textarea>
+		 		</p>
+			</form>
+
+	</body>
+ </html>
+
+</html>
